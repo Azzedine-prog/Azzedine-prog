@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## who am i
+<img src="azzedine.jpg" alt="azzedine lakhdar" width="300" height="350">
 I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
  embedded and electronic Domains. .
  - 🔭 i love working with linux operating systems  
  check my portfolio : [Portfolio](https://azzedine-lakhdar.netlify.app/)  
 
- <img src="azzedine.jpg" alt="Avatar" width="500" height="600" style=“border-radius: 50%;” >
 <!--
 **Azzedine-prog/Azzedine-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
