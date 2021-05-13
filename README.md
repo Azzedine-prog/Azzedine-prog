@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## who am i
-<img style="float: left;" src="azzedine.png" alt="azzedine lakhdar" width="133" height="133">
+<img align="right" src="azzedine.png" alt="azzedine lakhdar" width="133" height="133">
 
 I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
