@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## who am i
-<img src="iot.gif" alt="azzedine lakhdar" width="133" height="133">
+<img src="iot.gif" alt="azzedine lakhdar">
 
 I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  align="right"
+ width="133" height="133"
 -->
