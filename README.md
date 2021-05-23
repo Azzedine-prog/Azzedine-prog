@@ -5,8 +5,11 @@
 <p align="left" width="60%">I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
  embedded and electronic Domains. .</p>
-
- check my portfolio :<a href="https://azzedine-lakhdar.netlify.app/"> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
+<div>
+ <p align="left">check my portfolio :
+ <a align="right" href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
+ </p>
+ </div>
  
 
 <!--
