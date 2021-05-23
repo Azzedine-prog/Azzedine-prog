@@ -1,10 +1,10 @@
 ### Hi there 👋
 ## who am i
-<img src="picmcu.gif" alt="azzedine lakhdar">
+<img align="right" src="picmcu.gif" alt="azzedine lakhdar" width="50%">
 
-I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
+<p align="left" width="50%">I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
- embedded and electronic Domains. .
+ embedded and electronic Domains. .</p>
 
  check my portfolio : 🌱 [Portfolio](https://azzedine-lakhdar.netlify.app/)  🌱
 
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- align="right"
- width="133" height="133"
+ 
+  height="133"
 -->
