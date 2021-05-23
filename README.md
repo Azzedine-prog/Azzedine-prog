@@ -6,8 +6,9 @@
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
  embedded and electronic Domains. .</p>
 <div>
- <p align="left">check my portfolio :</p>
- <a align="right" href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
+	<p align="left">check my portfolio :</p>
+	<a align="right" href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> </a>
+	<a align="right" href="https://azzedine-lakhdar.netlify.app/"> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
  
  </div>
  
