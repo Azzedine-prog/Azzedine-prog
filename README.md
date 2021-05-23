@@ -7,9 +7,10 @@
  embedded and electronic Domains. .</p>
 <div>
 	<p align="left">check my portfolio :</p>
-	<a align="right" href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> </a>
-	<a align="right" href="https://azzedine-lakhdar.netlify.app/"> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
- 
+	<div>
+		<a align="left" href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> </a>
+		<a align="right" href="https://azzedine-lakhdar.netlify.app/"> <img src="Portfolio.gif" alt="Portfolio" width="80" height="50"> </a>
+	<div>
  </div>
  
 
