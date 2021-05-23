@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## who am i
-<img align="right" src="picmcu.gif" alt="azzedine lakhdar" width="50%">
+<img align="right" src="picmcu.gif" alt="azzedine lakhdar" width="40%">
 
-<p align="left" width="50%">I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
+<p align="left" width="60%">I am AZZEDINE LAKHDAR and I am an Embedded systems Engineering Student at INPT
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
  embedded and electronic Domains. .</p>
 
