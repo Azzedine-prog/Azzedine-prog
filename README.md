@@ -7,7 +7,7 @@
  embedded and electronic Domains. .</p>
 
  check my portfolio :<a href="https://azzedine-lakhdar.netlify.app/"> <b>Portfolio</b> </a>
- <img alt="Portfolio" src="Portfolio.gif" width=150" height="70">
+ <img src="Portfolio.gif" alt="Portfolio" width=150" height="70">
 
 <!--
 **Azzedine-prog/Azzedine-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
