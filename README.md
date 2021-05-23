@@ -6,7 +6,10 @@
  (National Institute of Posts and Telecommunication) with multiple projects done in multiple 
  embedded and electronic Domains. .</p>
 
- check my portfolio : 🌱 [Portfolio](https://azzedine-lakhdar.netlify.app/)  🌱
+ check my portfolio : 🌱 <a href="https://azzedine-lakhdar.netlify.app/">
+         <img alt="Portfolio" src="Portfolio.gif"
+         width=150" height="70">
+      </a>🌱
 
 <!--
 **Azzedine-prog/Azzedine-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
